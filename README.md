@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak814795" alt="deepak814795" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Networks**
+- 🔭 I’m currently working on creating solutions to various problems using **FrontEnd**, **BackEnd**, **Artificial Intelligence**, **Machine Learning**, etc...
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://main--endearing-mooncake-ffe791.netlify.app/](https://main--endearing-mooncake-ffe791.netlify.app/)
+- 👨‍💻 All of my work are available at [https://deepak-kushwaha.vercel.app/](https://deepak-kushwaha.vercel.app/)
 
 - 📫 How to reach me **deepak403419@gmail.com**
 
