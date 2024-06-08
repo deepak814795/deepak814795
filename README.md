@@ -17,7 +17,7 @@
 - 📫 How to reach me **deepak403419@gmail.com**
 
  <!-- Moving Sentences -->
-<p align="center" height="200px"> 
+<p align="left" height="900px"> 
  <br/> <br/> <br/>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Creating+Innovative+Solutions;Active+Learner%2FResearcher;Always+Learning%2C+Always+Building;Building+with+AI" alt="Typing SVG" /></a>
  </p> 
