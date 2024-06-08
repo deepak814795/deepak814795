@@ -9,7 +9,7 @@
  <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <!-- About Me Section -->
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Backend Applications**
 - 🌱 Learning all about **Open Source**
 - 💬 Ask me about ... **MERN Stack**
 - 😄 Employement ... **Open for Full Time Opportunities**
@@ -18,7 +18,7 @@
 
  <!-- Moving Sentences -->
 <p align="center" height="200px"> 
- <br/>
+ <br/> <br/> <br/>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Creating+Innovative+Solutions;Active+Learner%2FResearcher;Always+Learning%2C+Always+Building;Building+with+AI" alt="Typing SVG" /></a>
  </p> 
  
@@ -52,6 +52,9 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="React" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="React" /></a>
 </p>
 <br/><br/><br/>
 <hr>
